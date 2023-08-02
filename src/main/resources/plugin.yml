@@ -1,0 +1,4 @@
+name: ThroughtBedrock
+version: '${project.version}'
+main: fr.sunshinedev.tb.ThroughtBedrock
+api-version: '1.20'
